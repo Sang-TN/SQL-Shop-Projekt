@@ -51,4 +51,5 @@ FOREIGN KEY (LieferantenID) REFERENCES Lieferanten(LieferantenID)
 
 --Tabelle sqlite_sequence
 
-CREATE TABLE sqlite_sequence(name,seq)
+CREATE TABLE sqlite_sequence(name,seq);
+
