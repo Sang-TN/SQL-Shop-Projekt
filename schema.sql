@@ -27,6 +27,7 @@ Vorname TEXT,
 Nachname TEXT,
 Email TEXT UNIQUE,
 Adresse TEXT
+Stadt Text,
 );
 
 --Tabelle Lieferanten

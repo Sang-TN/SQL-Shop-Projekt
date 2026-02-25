@@ -1,10 +1,10 @@
 --4 Kunden
 
 INSERT INTO Kunden (Vorname, Nachname, Email, Adresse) VALUES
-('Safwan', 'Asif', 'Asif@mail.de', 'Hochstraße'),
-('Max', 'Richter', 'Richter@mail.de', 'Kingstraße'),
-('Emil', 'Schuster', 'Schuster@mail.de', 'Kaiserstraße'),
-('Sara', 'Jacobs', 'Jacobs@mail.de', 'Albertstraße');
+('Safwan', 'Asif', 'Asif@mail.de', 'Hochstraße', 'Mainz'),
+('Max', 'Richter', 'Richter@mail.de', 'Kingstraße','Mainz'),
+('Emil', 'Schuster', 'Schuster@mail.de', 'Kaiserstraße','Frankfurt'),
+('Sara', 'Jacobs', 'Jacobs@mail.de', 'Albertstraße','Frankfurt');
 
 --Lieferant
 
